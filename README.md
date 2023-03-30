@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-This is a repository for the second module (required in the Henry's PrepCourse)
+This repository has been a test, from which I've learned how to create a repository in GitHub and edit it from my computer
